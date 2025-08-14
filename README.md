@@ -1,4 +1,4 @@
-# Face-Recognition-Detection-using-Python
+# Face-Recognition/Detection-using-Python
 A.) Project Overview:
 This project is a Python-based computer vision system capable of detecting and recognizing human faces in both static images and real-time video streams. It combines image processing, machine learning, and pattern recognition techniques to provide accurate and fast facial identification. The system is designed with potential applications in security monitoring, automated attendance, smart door systems, and user authentication.
 
